@@ -1,7 +1,7 @@
 {
-  "productName": "la-nokta-gardanto",
+  "productName": "La Nokta Gardanto",
   "version": "0.0.0",
-  "identifier": "com.tauri.dev",
+  "identifier": "net.masuqat.app.la_nokta_gardanto",
   "build": {
     "beforeDevCommand": "trunk serve",
     "devUrl": "http://localhost:1420",
@@ -12,7 +12,7 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "la-nokta-gardanto",
+        "title": "La Nokta Gardanto",
         "width": 800,
         "height": 600
       }
